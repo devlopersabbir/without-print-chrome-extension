@@ -1,0 +1,36 @@
+{
+  "name": "without-print-preview",
+  "description": "print shortcut extension",
+  "version": "0.0.1",
+  "author": {
+    "email": "devlopersabbir@gmail.com",
+    "name": "Sabbir Hossain Shuvo",
+    "url": "https://www.showwcase.com/devlopersabbir"
+  },
+  "badges": [
+    {
+      "description": "full-stack developer",
+      "href": "https://www.showwcase.com/devlopersabbir",
+      "url": "https://github.com/devlopersabbir"
+    }
+  ],
+  "bugs": {
+    "email": "devlopersabbir@gmail.com",
+    "url": "https://github.com/devlopersabbir/without-print-chrome-extension/issues/new"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "displayName": "Print Shortcut",
+  "homepage": "https://github.com/devlopersabbir/without-print-chrome-extension/#readme",
+  "keywords": [
+    "print-chrome-extension",
+    "print-extension",
+    "print-shortcut",
+    "chrome-extension"
+  ],
+  "scripts": {
+    "dev": "nodemon manifest.json",
+    "build": "tsc"
+  }
+}
