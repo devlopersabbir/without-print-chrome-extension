@@ -3,7 +3,7 @@
   "description": "Print Shortcut Google Chrome extension",
   "version": "0.0.1",
   "manifest_version": 3,
-  "permissions": ["activeTab", "tabs", "printing"],
+  "permissions": ["activeTab", "tabs"],
   "background": {
     "service_worker": "background/background.js"
   },
