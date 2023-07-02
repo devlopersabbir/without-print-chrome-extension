@@ -4,7 +4,8 @@
  * Manifest_version: 3
  * Supported: Google Chrome | null
  * Language: JavaScript && HTML && JSON
- * Author: Sabbir Hossain Shuvo
+ * Author: Stasysvoras
+ * Creator: Sabbir Hossain Shuvo
  * Author_Email: devlopersabbir@gmail.com
  * Author_username: @devlopersabbir
  * Github_repo: https://github.com/devlopersabbir/without-print-chrome-extension
