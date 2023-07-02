@@ -7,6 +7,7 @@
  * Author: Sabbir Hossain Shuvo
  * Author_Email: devlopersabbir@gmail.com
  * Author_username: @devlopersabbir
+ * Github_repo: https://github.com/devlopersabbir/without-print-chrome-extension
  */
 
 console.clear();
